@@ -18,3 +18,4 @@ export * from "./separator/separator";
 export * from "./skeleton/skeleton";
 export * from "./tabs/tabs";
 export * from "./textarea/textarea";
+export * from "./toggle/toggle";
